@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.2.0
-Release:	16
+Release:	17
 Summary:	Lossless compression algorithm
 License:	PHP License
 Group:		Development/PHP
